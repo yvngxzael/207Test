@@ -3,7 +3,7 @@ class Test2{
         System.out.println("Testing...");
     }
     public static int add (int x, int y){
-        return x + y;
+        return x + (y + 1);
     }
     public static int minus (int x, int y){
         return x - y;
