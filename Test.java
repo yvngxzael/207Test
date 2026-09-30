@@ -6,7 +6,7 @@ class Test{
         System.out.println(str("..."));
     }
     public static int number (int x){
-        return x;
+        return x + 1;
     }
     public static double decimal (double x) {
         return x;
