@@ -3,7 +3,7 @@ class Test{
         System.out.println("hello world");
         System.out.println(number(1));
         System.out.println(decimal(4.5));
-        System.out.println(str("..."));
+        System.out.println(str("Hello 207 A1"));
     }
     public static int number (int x){
         return x + 1;
